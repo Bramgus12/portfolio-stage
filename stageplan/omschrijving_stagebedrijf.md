@@ -1,4 +1,4 @@
-[*<< Terug naar stageplan*](/stageplan)
+[*<< Terug naar stageplan*](../stageplan)
 
 # Omschrijving van het stage bedrijf.
 

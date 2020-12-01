@@ -1,4 +1,4 @@
-[*<< Terug naar stageplan*](/stageplan)
+[*<< Terug naar stageplan*](../stageplan)
 
 # Globale planning
 

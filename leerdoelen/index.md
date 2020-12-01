@@ -1,13 +1,13 @@
-[*<< Terug naar de homepagina*](/)
+[*<< Terug naar de homepagina*](../)
 
-# [Manage and control](/leerdoelen/manage_and_control)
+# [Manage and control](manage_and_control)
 
-# [Analyseren](/leerdoelem/analyseren)
+# [Analyseren](analyseren)
 
-# [Adviseren](/leerdoelen/adviseren)
+# [Adviseren](adviseren)
 
-# [Ontwerpen](/leerdoelen/ontwerpen)
+# [Ontwerpen](ontwerpen)
 
-# [Realiseren](/leerdoelen/realiseren)
+# [Realiseren](realiseren)
 
-# [Profesional Skills](/leerdoelen/professional_skills)
+# [Profesional Skills](professional_skills)

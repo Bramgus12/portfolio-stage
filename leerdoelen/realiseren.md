@@ -1,1 +1,1 @@
-[*<< Terug naar leerdoelen*](/leerdoelen)
+[*<< Terug naar leerdoelen*](../leerdoelen)

@@ -1,4 +1,4 @@
-[*<< Terug naar stageplan*](/stageplan)
+[*<< Terug naar stageplan*](../stageplan)
 
 # Leerdoelen
 ## Manage and control

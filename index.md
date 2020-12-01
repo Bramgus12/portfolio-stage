@@ -1,3 +1,3 @@
-## [Stageplan](/stageplan)
+## [Stageplan](stageplan)
 
-## [Uitgewerkte leerdoelen](/leerdoelen)
+## [Uitgewerkte leerdoelen](leerdoelen)

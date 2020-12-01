@@ -1,7 +1,7 @@
-[*<< Terug naar de homepagina*](/)
+[*<< Terug naar de homepagina*](../)
 
-## [Omschrijving stagebedrijf](/stageplan/omschrijving_stagebedrijf)
+## [Omschrijving stagebedrijf](omschrijving_stagebedrijf)
 
-## [Leerdoelen](/stageplan/leerdoelen)
+## [Leerdoelen](leerdoelen)
 
-## [Globale planning](/stageplan/globale_planning)
+## [Globale planning](globale_planning)
