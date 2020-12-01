@@ -1,3 +1,7 @@
+[*<< Terug naar stageplan*](/stageplan)
+
+# Globale planning
+
 | Weken       | Main focus                                          | Uren
 | ---         |                                                     |
 | Week 1 OP1  | Intro tot bedrijf.                                  | 24 uur
